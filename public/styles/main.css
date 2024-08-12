@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(179, 153, 118);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    
+}
+
+h1 {font-size: 4rem;}
+
+h2 {
+    font-size: 2rem;
+    font-family: "Titan One", cursive;
+}
+
+img {
+    border-radius: 8px;
+    width: 50%;
+}
